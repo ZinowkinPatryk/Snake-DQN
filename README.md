@@ -37,9 +37,8 @@ The project implements a Deep Q-Network (DQN) where:
 - snake.py & board.py -> Core game components like position of snake body and creating game board. 
 
 
-# RESULTS Analysis
+# RESULTS ANALYSIS
 ![](results/resultsAIlearning.png)
-Results Analysis
 The graph shows the agent's performance over 5050 games.
 - Initial Learning Phase (Games 0–500): You can observe a steep upward trend. The agent quickly moves from scoring 0 points to consistently hitting a range of 10–25 points as it learns the basic mechanics of moving toward the apple and avoiding walls.
 - Stability and Exploration (Games 500–5000): After the initial spike, the scores stabilize. The high density of the lines indicates that the agent has developed a reliable strategy.
@@ -48,7 +47,7 @@ The graph shows the agent's performance over 5050 games.
 
 
 # HOW TO USE
-Firsly you have to install module such as numpy, torch, pygame
+Firstly you have to install module such as numpy, torch, pygame.
 Secondly you need to run agent.py and that's all, you can enjoy watching how neural networks starts updating its weights and improving better performance.
 
 Note: The model is automatically saved as model.pth in the /model folder every time a new high score is achieved.

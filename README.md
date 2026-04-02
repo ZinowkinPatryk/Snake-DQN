@@ -47,8 +47,7 @@ The graph shows the agent's performance over 5050 games.
 
 
 # HOW TO USE
-Firstly you have to install module such as numpy, torch, pygame.
-Secondly you need to run agent.py and that's all, you can enjoy watching how neural networks starts updating its weights and improving better performance.
+Firstly, you have to install modules, such as numpy, torch and pygame. Secondly, you need to run agent.py and that's all, you can enjoy watching the neural network update its weights and improve its performance.
 
 Note: The model is automatically saved as model.pth in the /model folder every time a new high score is achieved.
 

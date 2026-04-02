@@ -27,7 +27,7 @@ The project implements a Deep Q-Network (DQN) where:
   - -10 for a Game Over (hitting walls or itself).
   - Small positive/negative rewards based on whether it's getting closer to the food.
 
-# HOW IT LOOKS LIKE 
+# WHAT IT LOOKS LIKE 
 ![](ezgif-100f2ac10ab98010.gif)
 
 # PROJECT STRUCTURE 
